@@ -17,12 +17,12 @@ and continuously learning new technologies.
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arupmahato03&label=Profile%20views&color=0e75b6&style=flat" alt="arupmahato03" />
+  <img src="https://komarev.com/ghpvc/?username=arupx392&label=Profile%20views&color=0e75b6&style=flat" alt="arupmahato03" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arupmahato03&theme=onestar" alt="arupmahato03" />
+  <a href="https://github-profile-trophy-fork-two.vercel.app">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=arupmahato03&theme=onestar" alt="arupmahato03" />
   </a>
 </p>
 
