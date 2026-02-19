@@ -29,7 +29,7 @@ and continuously learning new technologies.
 - 🌱 Currently learning: **Spring Security, System Design & Microservices Patterns**  
 - 💼 Open to roles: **Java Backend Developer / Spring Boot Developer / Backend Engineer**  
 - 📫 Reach me at: **arup71062@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1E4oWvxycq0RI2Wbp-7KDI7Wyi8HSPjmc/view?usp=sharing)  
+- 📄 [My Resume](https://drive.google.com/file/d/1mzUUtqglOvX6NAdVl440iSbC7dSjdAmX/view?usp=sharing)  
 - 💻 [My Portfolio](https://arupmahato03.github.io)  
 - ⚡ Fun fact: **I enjoy turning complex backend problems into simple, scalable solutions 😄**
 
