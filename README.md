@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/arupmahato03/arupmahato03/main/clark-tibbs-oqStl25oxI-unsplash.jpg" width="100%" height="200px" alt="banner" />
-<img src="https://raw.githubusercontent.com/arupmahato03/arupmahato03/main/clark-tibbs-oqStl25oxI-unsplash.jpg" width="100%" height="200px" alt="banner" />
+<img src="https://raw.githubusercontent.com/arupmahato03/arupmahato03/main/banner.jpg" width="100%" height="200px" alt="banner" />
+
 
 
 ----------------------------------------------------------------------------------------------------------
